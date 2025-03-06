@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//comm1
+
 int function(int x){
 	x=x-2;
 	x=function(x);
